@@ -23,6 +23,6 @@ The third child gets 1 candy because it satisfies the above two conditions.
 
 Constraints:
 
-n == ratings.length
+n == ratings.length.
 1 <= n <= 2 * 104
 0 <= ratings[i] <= 2 * 104
